@@ -2,9 +2,8 @@
 // http://go.microsoft.com/fwlink/?LinkId=232509
 (function () {
     "use strict";
-
+    var api_key = "d1d11c0cf2605c1e396a";
     WinJS.Binding.optimizeBindingReferences = true;
-
     var app = WinJS.Application;
     var activation = Windows.ApplicationModel.Activation;
     var articlesList;
