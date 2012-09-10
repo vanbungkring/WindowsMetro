@@ -1,9 +1,0 @@
-D:\wego-project\Wego\Wego\bin\Debug\resources.pri
-D:\wego-project\Wego\Wego\bin\Debug\AppxManifest.xml
-D:\wego-project\Wego\Wego\bin\Debug\Wego.build.appxrecipe
-D:\wego-project\Wego\Wego\bld\Debug\priconfig.xml
-D:\wego-project\Wego\Wego\bld\Debug\layout.resfiles
-D:\wego-project\Wego\Wego\bld\Debug\resources.resfiles
-D:\wego-project\Wego\Wego\bld\Debug\pri.resfiles
-D:\wego-project\Wego\Wego\bld\Debug\LanguageQualifiers.txt
-D:\wego-project\Wego\Wego\bld\Debug\ProjectArchitectures.txt
