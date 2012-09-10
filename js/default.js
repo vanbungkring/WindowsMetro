@@ -58,24 +58,7 @@
 
 
     }
-    function downloadC9BlogFeed() {
 
-        WinJS.xhr({ url: "http://channel9.msdn.com/coding4fun/articles/RSS" }).then(function (rss) {
-
-            var items = rss.responseXML.querySelectorAll("item");
-
-            for (var n = 0; n < items.length; n++) {
-                var article = {};
-                article.title = items[n].querySelector("title").textContent;
-                var thumbs = items[n].querySelectorAll("thumbnail");
-                if (thumbs.length > 1) {
-                    article.thumbnail = "http://img.ads.kompas.com/ads6/996561f25dd4014bcb763853f3d614f7.jpg";
-                    article.content = items[n].textContent;
-                    articlesList.push(article);
-                }
-            }
-        });
-    }
 
     app.oncheckpoint = function (args) {
         // TODO: This application is about to be suspended. Save any state
