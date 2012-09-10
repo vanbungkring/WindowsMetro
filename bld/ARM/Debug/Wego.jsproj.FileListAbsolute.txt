@@ -1,0 +1,13 @@
+D:\wego-project\Wego\Wego\bin\ARM\Debug\resources.pri
+D:\wego-project\Wego\Wego\bin\ARM\Debug\AppxManifest.xml
+D:\wego-project\Wego\Wego\bin\ARM\Debug\Wego.build.appxrecipe
+D:\wego-project\Wego\Wego\bld\ARM\Debug\priconfig.xml.intermediate
+D:\wego-project\Wego\Wego\bld\ARM\Debug\layout.resfiles.intermediate
+D:\wego-project\Wego\Wego\bld\ARM\Debug\resources.resfiles.intermediate
+D:\wego-project\Wego\Wego\bld\ARM\Debug\pri.resfiles.intermediate
+D:\wego-project\Wego\Wego\bld\ARM\Debug\priconfig.xml
+D:\wego-project\Wego\Wego\bld\ARM\Debug\layout.resfiles
+D:\wego-project\Wego\Wego\bld\ARM\Debug\resources.resfiles
+D:\wego-project\Wego\Wego\bld\ARM\Debug\pri.resfiles
+D:\wego-project\Wego\Wego\bld\ARM\Debug\LanguageQualifiers.txt
+D:\wego-project\Wego\Wego\bld\ARM\Debug\ProjectArchitectures.txt
