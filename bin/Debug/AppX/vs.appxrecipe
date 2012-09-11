@@ -16,13 +16,17 @@
     <AppXManifest Include="D:\wego-project\Wego\Wego\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-10T14:44:49.887</Modified>
+      <Modified>2012-09-11T03:02:48.223</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
       <Modified>2012-09-11T02:41:32.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\Wego\Wego\pages\Deals\Deals.html">
+      <PackagePath>pages\Deals\Deals.html</PackagePath>
+      <Modified>2011-12-12T11:07:18.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -48,13 +52,17 @@
       <PackagePath>js\default.js</PackagePath>
       <Modified>2012-09-11T02:42:11.146</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\Wego\Wego\pages\Deals\Deals.js">
+      <PackagePath>pages\Deals\Deals.js</PackagePath>
+      <Modified>2011-12-12T11:07:18.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2012-09-10T07:59:23.108</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-09-10T14:44:49.841</Modified>
+      <Modified>2012-09-11T03:02:48.163</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
