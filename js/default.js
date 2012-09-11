@@ -27,7 +27,7 @@
     };
     ////call the main to get serach id
     function setParams() {
-        var url = 'http://api.wego.com/hotels/api/search/new?location_id=3400&check_in=2012-10-1&check_out=2012-10-10&api_key=d1d11c0cf2605c1e396a';
+        var url = 'http://api.wego.com/hotels/api/search/new?location_id=3400&check_in=2012-10-1&check_out=2012-10-10&api_key='+api_key;
         WinJS.xhr({ url: url }).then(function (data) {
             var result = JSON.parse(data.responseText);
             alerts(result.search_id);
@@ -38,7 +38,7 @@
 
     function alerts(search_id) {
         var msg;
-        var url = "http://api.wego.com/hotels/api/search/" + search_id + "?api_key=d1d11c0cf2605c1e396a&currency_code=USD&page=1&per_page=30"
+        var url = "http://api.wego.com/hotels/api/search/" + search_id + "?api_key="+api_key+"&currency_code=USD&page=1&per_page=30"
         WinJS.xhr({ url: url }).then(function (data) {
 
             var hotels_main = JSON.parse(data.responseText);

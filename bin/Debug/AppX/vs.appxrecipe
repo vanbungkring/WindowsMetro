@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2012-09-10T15:29:56.552</Modified>
+      <Modified>2012-09-11T02:26:37.138</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
