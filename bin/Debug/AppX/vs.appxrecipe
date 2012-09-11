@@ -16,13 +16,13 @@
     <AppXManifest Include="D:\wego-project\Wego\Wego\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-11T07:26:50.068</Modified>
+      <Modified>2012-09-11T09:53:39.445</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-09-11T09:14:07.243</Modified>
+      <Modified>2012-09-11T09:57:35.194</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default4.html">
       <PackagePath>default4.html</PackagePath>
@@ -86,11 +86,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-09-11T09:19:47.512</Modified>
+      <Modified>2012-09-11T09:56:49.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-09-11T07:26:49.963</Modified>
+      <Modified>2012-09-11T09:53:39.343</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
