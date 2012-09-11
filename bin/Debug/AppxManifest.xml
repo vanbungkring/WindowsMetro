@@ -22,7 +22,7 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <VisualElements DisplayName="Wego" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Wego" ForegroundText="light" BackgroundColor="#000000">
+      <VisualElements DisplayName="Wego" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Wego" ForegroundText="light" BackgroundColor="#ffffff">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="images\splashscreen.png" />
         <InitialRotationPreference>

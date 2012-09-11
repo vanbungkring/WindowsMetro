@@ -5,7 +5,7 @@
     <WindowsUser>Arie</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>4EDEEAF49B8DC4E16061041E17D8D49A24198264EA672051E1B86FC6E2C8550E</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>C0A0F3DE7B966906BD768BA3CB74DA011E59459C581E53F4281C1AAC3C733869</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4df960fb-e606-4934-bea6-2ff75b53731b_1.0.0.0_neutral__b83t3nsxcyr2t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4df960fb-e606-4934-bea6-2ff75b53731b_b83t3nsxcyr2t!App</RegisteredUserModeAppID>
     <RegisteredPackageID>4df960fb-e606-4934-bea6-2ff75b53731b</RegisteredPackageID>
@@ -16,13 +16,13 @@
     <AppXManifest Include="D:\wego-project\Wego\Wego\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-11T06:17:58.340</Modified>
+      <Modified>2012-09-11T07:26:50.068</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-09-11T07:12:23.965</Modified>
+      <Modified>2012-09-11T07:42:45.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default4.html">
       <PackagePath>default4.html</PackagePath>
@@ -66,7 +66,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2012-09-11T04:05:05.962</Modified>
+      <Modified>2012-09-11T07:23:23.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\pages\Deals\Deals.js">
       <PackagePath>pages\Deals\Deals.js</PackagePath>
@@ -86,11 +86,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-09-11T06:51:31.939</Modified>
+      <Modified>2012-09-11T07:43:11.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-09-11T06:17:57.781</Modified>
+      <Modified>2012-09-11T07:26:49.963</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

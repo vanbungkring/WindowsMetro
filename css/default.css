@@ -22,12 +22,6 @@
         -ms-grid-columns: 120px 1fr;
         -ms-grid-rows: 1fr;
     }
-
-    #backbutton {
-        margin-top: 54px;
-        margin-left: 40px;
-    }
-
     #maintitle {
         -ms-grid-column: 2;
         width: 209px;
@@ -41,6 +35,7 @@
     }
 
     #articlelist {
+	
         float: left;
         width: 100%;
         height: 100%;
