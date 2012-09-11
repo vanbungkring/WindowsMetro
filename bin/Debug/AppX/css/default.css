@@ -1,7 +1,8 @@
 ﻿body {
-    background:#fff;
-    color:#808080;
-
+    background: #fff;
+    color: #808080;
+    margin: 0;
+    padding: 0;
 }
 
 @media screen and (-ms-view-state: fullscreen-landscape) {
@@ -29,6 +30,7 @@
 
     #maintitle {
         -ms-grid-column: 2;
+        width: 209px;
         -ms-grid-row-align: center;
     }
 
@@ -39,8 +41,7 @@
     }
 
     #articlelist {
-        float:left;
-
+        float: left;
         width: 100%;
         height: 100%;
     }
@@ -48,21 +49,21 @@
         #articlelist .win-item {
             width: 250px;
             height: 250px;
-            background:#000;
+            background: #000;
         }
 
-        .listItemTemplate {
-        	margin: 8px;
-        }
+    .listItemTemplate {
+        margin: 8px;
+    }
 
-        .listItemImage img {
-        	width: 234px;
-        	height: 165px;
-        }
+    .listItemImage img {
+        width: 234px;
+        height: 165px;
+    }
 
-        .win-surface {
-        	margin-left: 112px;
-        }
+    .win-surface {
+        margin-left: 112px;
+    }
 }
 
 @media screen and (-ms-view-state: filled) {

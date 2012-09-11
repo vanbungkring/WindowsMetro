@@ -28,6 +28,9 @@
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\pages\Hotels\Hotels.html">
       <PackagePath>pages\Hotels\Hotels.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\Wego\Wego\images\logo-landing.png">
+      <PackagePath>images\logo-landing.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
