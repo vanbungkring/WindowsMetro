@@ -60,6 +60,7 @@
     <Content Include="images\storelogo.png" />
     <Content Include="js\default.js" />
     <Content Include="css\default.css" />
+    <Content Include="pages\Deals\Deals.htmk" />
     <None Include="Wego_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
@@ -68,7 +69,6 @@
   <ItemGroup>
     <Folder Include="pages\Flight\" />
     <Folder Include="pages\Hotels\" />
-    <Folder Include="pages\Deals\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <!-- To modify your build process, add your task inside one of the targets below then uncomment
