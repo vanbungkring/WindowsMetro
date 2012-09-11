@@ -16,17 +16,17 @@
     <AppXManifest Include="D:\wego-project\Wego\Wego\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-11T03:53:40.774</Modified>
+      <Modified>2012-09-11T04:19:01.715</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-09-11T03:54:32.283</Modified>
+      <Modified>2012-09-11T05:54:55.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default4.html">
       <PackagePath>default4.html</PackagePath>
-      <Modified>2012-09-11T03:52:21.025</Modified>
+      <Modified>2012-09-11T04:13:41.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\pages\Deals\Deals.html">
       <PackagePath>pages\Deals\Deals.html</PackagePath>
@@ -62,7 +62,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2012-09-11T02:42:11.146</Modified>
+      <Modified>2012-09-11T04:05:05.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\pages\Deals\Deals.js">
       <PackagePath>pages\Deals\Deals.js</PackagePath>
@@ -76,13 +76,17 @@
       <PackagePath>pages\Hotels\Hotels.js</PackagePath>
       <Modified>2012-09-11T03:07:59.620</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\Wego\Wego\sampleData.js">
+      <PackagePath>sampleData.js</PackagePath>
+      <Modified>2012-07-10T09:48:28.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-09-10T07:59:23.108</Modified>
+      <Modified>2012-09-11T04:29:51.757</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-09-11T03:53:40.718</Modified>
+      <Modified>2012-09-11T04:19:01.621</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

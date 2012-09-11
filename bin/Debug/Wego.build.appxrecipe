@@ -56,6 +56,9 @@
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\pages\Hotels\Hotels.js">
       <PackagePath>pages\Hotels\Hotels.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\wego-project\Wego\Wego\sampleData.js">
+      <PackagePath>sampleData.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>

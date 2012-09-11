@@ -36,6 +36,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>4df960fb-e606-4934-bea6-2ff75b53731b</ProjectGuid>
+    <ExpressionBlendVersion>5.0.30709.0</ExpressionBlendVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
     <VisualStudioVersion>11.0</VisualStudioVersion>
@@ -54,6 +55,7 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="default.html" />
+    <Content Include="default4.html" />
     <Content Include="images\logo.png" />
     <Content Include="images\smalllogo.png" />
     <Content Include="images\splashscreen.png" />
@@ -62,14 +64,15 @@
     <Content Include="css\default.css" />
     <Content Include="pages\Deals\Deals.html" />
     <Content Include="pages\Deals\Deals.js" />
+    <Content Include="pages\Flight\Flight.html" />
+    <Content Include="pages\Flight\Flight.js" />
+    <Content Include="pages\Hotels\Hotels.html" />
+    <Content Include="pages\Hotels\Hotels.js" />
+    <Content Include="sampleData.js" />
     <None Include="Wego_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="pages\Flight\" />
-    <Folder Include="pages\Hotels\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <!-- To modify your build process, add your task inside one of the targets below then uncomment

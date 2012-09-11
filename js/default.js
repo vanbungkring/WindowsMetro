@@ -22,7 +22,7 @@
 
             articlesList = new WinJS.Binding.List();
             var publicMembers = { ItemList: articlesList };
-            WinJS.Namespace.define("C9Data", publicMembers);
+            WinJS.Namespace.define("Wego", publicMembers);
 
             args.setPromise(WinJS.UI.processAll().then(setParamsForHotels));
         }
