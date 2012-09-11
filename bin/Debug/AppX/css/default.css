@@ -1,6 +1,6 @@
 ﻿body {
     background: #fff;
-    color: #808080;
+    color: black;
     margin: 0;
     padding: 0;
 }
@@ -30,17 +30,19 @@
     }
 
     #content {
-        width: 100%;
+        width: 183.02%;
         height: 100%;
         overflow-y: hidden;
-        overflow-x: scroll;
+        overflow-x: auto;
         -ms-grid-row: 2;
     }
 
-    #merdeka-1 {
-        width: 300px;
-        -ms-grid-column: 2;
+    .merdeka-1 {
+        float:left;
+        width: 350px;
+        -ms-grid-column: 5;
         -ms-grid-row-align: center;
+        height: 380px;
     }
 
     #articlelist {

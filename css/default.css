@@ -30,17 +30,18 @@
     }
 
     #content {
-        width: 100%;
+        width: 183.02%;
         height: 100%;
         overflow-y: hidden;
-        overflow-x: scroll;
+        overflow-x: auto;
         -ms-grid-row: 2;
     }
 
-    #merdeka-1 {
+    .merdeka-1 {
+        float:left;
         width: 350px;
         -ms-grid-column: 5;
-        -ms-grid-row-align: stretch;
+        -ms-grid-row-align: center;
         height: 380px;
     }
 
