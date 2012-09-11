@@ -1,6 +1,6 @@
 ﻿body {
     background: #fff;
-    color: #808080;
+    color: black;
     margin: 0;
     padding: 0;
 }
@@ -22,6 +22,7 @@
         -ms-grid-columns: 120px 1fr;
         -ms-grid-rows: 1fr;
     }
+
     #maintitle {
         -ms-grid-column: 2;
         width: 209px;
@@ -31,11 +32,19 @@
     #content {
         width: 100%;
         height: 100%;
+        overflow-y: hidden;
+        overflow-x: scroll;
         -ms-grid-row: 2;
     }
 
+    #merdeka-1 {
+        width: 350px;
+        -ms-grid-column: 5;
+        -ms-grid-row-align: stretch;
+        height: 380px;
+    }
+
     #articlelist {
-	
         float: left;
         width: 100%;
         height: 100%;
