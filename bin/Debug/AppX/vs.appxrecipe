@@ -22,7 +22,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-09-11T09:57:35.194</Modified>
+      <Modified>2012-09-11T10:28:06.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default4.html">
       <PackagePath>default4.html</PackagePath>
@@ -86,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-09-11T09:56:49.852</Modified>
+      <Modified>2012-09-11T10:28:25.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
