@@ -16,13 +16,13 @@
     <AppXManifest Include="D:\wego-project\Wego\Wego\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-11T09:53:39.445</Modified>
+      <Modified>2012-09-12T03:20:37.114</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-09-11T10:28:06.270</Modified>
+      <Modified>2012-09-12T03:20:30.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\default4.html">
       <PackagePath>default4.html</PackagePath>
@@ -80,17 +80,13 @@
       <PackagePath>pages\Hotels\Hotels.js</PackagePath>
       <Modified>2012-09-11T03:07:59.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\wego-project\Wego\Wego\sampleData.js">
-      <PackagePath>sampleData.js</PackagePath>
-      <Modified>2012-07-10T09:48:28.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2012-09-11T10:28:25.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\wego-project\Wego\Wego\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-09-11T09:53:39.343</Modified>
+      <Modified>2012-09-12T03:20:34.862</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

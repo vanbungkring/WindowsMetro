@@ -69,7 +69,6 @@
     <Content Include="pages\Flight\Flight.js" />
     <Content Include="pages\Hotels\Hotels.html" />
     <Content Include="pages\Hotels\Hotels.js" />
-    <Content Include="sampleData.js" />
     <None Include="Wego_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
